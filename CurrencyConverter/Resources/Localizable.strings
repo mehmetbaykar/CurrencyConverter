@@ -1,0 +1,26 @@
+//
+//  Localizable.strings
+//  CurrencyConverter
+//
+//  Created by Mehmet Baykar on 8/8/22.
+//
+
+
+
+// MARK: - App
+"App.Name" = "Currency Converter";
+
+// MARK: - Alert
+
+"Title.CurrencyConverted" = "Currency Converted";
+"Message.CurrencyConverted" = "You have converted %@ to %@. Comission Fee - %@.";
+"Message.InsufficientBalance" = "Insufficient balance";
+"Button.Title.Done" = "Done";
+"Button.Title.Ok" = "OK";
+
+
+// MARK: - Error
+
+"Error.invalidUrl" = "Invalid URL";
+"Error.invalidData" = "Invalid data";
+"Error.invalidResponse" = "Invalid response";
